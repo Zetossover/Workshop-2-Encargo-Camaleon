@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Touch_Destroy : MonoBehaviour
+public class SettearNubes : MonoBehaviour
 {
     [SerializeField] GameObject nubes, sol;
     [SerializeField] Transform[] spawn;
