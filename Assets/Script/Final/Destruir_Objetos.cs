@@ -1,16 +1,10 @@
+using System.Collections;
 using UnityEngine;
 
-
-public class DestruirNubes : MonoBehaviour
+public class Destruir_Objetos : MonoBehaviour
 {
-    bool EstaTocandoNube = false;
-    public int contadorNubes;
 
-    void Start()
-    {
-        contadorNubes = 16;
-        
-    }
+
     // Update is called once per frame
     void Update()
     {
@@ -18,21 +12,17 @@ public class DestruirNubes : MonoBehaviour
         {
             Vector2 posMouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             RaycastHit2D ray = Physics2D.Raycast(posMouse, Vector2.zero);
-            if(ray.collider != null)            {
-                
+            if (ray.collider != null)
+            {
                 Debug.Log("choco" + ray.collider.name);
-                if (ray.collider.CompareTag("Nube"))
+                if (ray.collider.CompareTag("Objetos"))
                 {
                     ray.collider.gameObject.SetActive(false);
-                    contadorNubes -= 1;
+                    
                 }
             }
-            
-        }
-        if(contadorNubes <= 0)
-        {
-            Debug.Log("Cambio");
         }
     }
+    
     
 }

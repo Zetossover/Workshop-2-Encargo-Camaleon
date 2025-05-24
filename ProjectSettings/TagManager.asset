@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Sol
   - Nube
+  - Objetos
   layers:
   - Default
   - TransparentFX
