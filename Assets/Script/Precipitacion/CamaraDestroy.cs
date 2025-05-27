@@ -1,45 +1,32 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class DestruirNubes : MonoBehaviour
+public class CamaraDestroy : MonoBehaviour
 {
-    bool EstaTocandoNube = false;
-    public int contadorNubes;
-
+    [SerializeField] GameObject gotitas;
+    bool estaTocandoNube = false;
+    public bool esActivable = false;
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        contadorNubes = 16;
         
-    }
-    void NextScene()
-    {
-        if(contadorNubes <= 0)
-        {
-            SceneManager.LoadScene("Precipitacion");
-        }
     }
     // Update is called once per frame
     void Update()
     {
-
         if (Input.GetMouseButtonDown(0))
         {
             Vector2 posMouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             RaycastHit2D ray = Physics2D.Raycast(posMouse, Vector2.zero);
-            if(ray.collider != null)            
-            {    
+            if (ray.collider != null)
+            {
                 Debug.Log("choco" + ray.collider.name);
-                if (ray.collider.CompareTag("Nube"))
+                if (ray.collider.CompareTag("Nube") && esActivable == true)
                 {
                     ray.collider.gameObject.SetActive(false);
-                    contadorNubes -= 1;
+                    Instantiate(gotitas, posMouse, Quaternion.identity);
                 }
             }
-        }
-        if(contadorNubes <= 0)
-        {
-            Debug.Log("Cambio");
-            NextScene();
         }
     }
 }
