@@ -256,6 +256,7 @@ GameObject:
   - component: {fileID: 163162880}
   - component: {fileID: 163162883}
   - component: {fileID: 163162884}
+  - component: {fileID: 163162885}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -391,6 +392,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 83324ae51227f5844b4706e805a314ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &163162885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 163162879}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a012ca3e2d48543aebbd3eb830e3fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &380318939
@@ -1513,19 +1526,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4034705169390849111, guid: 9b9dfc1e79c67b74393341979c672e7f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.6978337
+      value: -0.69119865
       objectReference: {fileID: 0}
     - target: {fileID: 4034705169390849111, guid: 9b9dfc1e79c67b74393341979c672e7f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.012039166
+      value: 0.01219508
       objectReference: {fileID: 0}
     - target: {fileID: 4034705169390849111, guid: 9b9dfc1e79c67b74393341979c672e7f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.016975587
+      value: -0.016863938
       objectReference: {fileID: 0}
     - target: {fileID: 4034705169390849111, guid: 9b9dfc1e79c67b74393341979c672e7f, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.71595734
+      value: 0.72236514
       objectReference: {fileID: 0}
     - target: {fileID: 4034705169390849111, guid: 9b9dfc1e79c67b74393341979c672e7f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1537,7 +1550,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4034705169390849111, guid: 9b9dfc1e79c67b74393341979c672e7f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -91.46
+      value: -92.517
       objectReference: {fileID: 0}
     - target: {fileID: 6689706846392821890, guid: 9b9dfc1e79c67b74393341979c672e7f, type: 3}
       propertyPath: m_SortingOrder
@@ -2078,6 +2091,7 @@ GameObject:
   - component: {fileID: 1339774198}
   - component: {fileID: 1339774201}
   - component: {fileID: 1339774200}
+  - component: {fileID: 1339774202}
   m_Layer: 0
   m_Name: Agua
   m_TagString: Untagged
@@ -2218,6 +2232,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1339774202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1339774197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e9d367562eee464482fb182675ad5da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1340065211
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2352,9 +2378,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1451307014}
   - component: {fileID: 1451307013}
+  - component: {fileID: 1451307015}
   m_Layer: 0
   m_Name: Camaleon
-  m_TagString: Untagged
+  m_TagString: Camaleon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2429,6 +2456,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1451307015
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451307012}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
 --- !u!1001 &1518280856
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -18,8 +18,8 @@ public class DestruirNubes : MonoBehaviour
         {
             Vector2 posMouse = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             RaycastHit2D ray = Physics2D.Raycast(posMouse, Vector2.zero);
-            if(ray.collider != null)            {
-                
+            if(ray.collider != null)            
+            {    
                 Debug.Log("choco" + ray.collider.name);
                 if (ray.collider.CompareTag("Nube"))
                 {
@@ -27,12 +27,10 @@ public class DestruirNubes : MonoBehaviour
                     contadorNubes -= 1;
                 }
             }
-            
         }
         if(contadorNubes <= 0)
         {
             Debug.Log("Cambio");
         }
     }
-    
 }
