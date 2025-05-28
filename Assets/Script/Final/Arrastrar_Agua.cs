@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Arrastrar_Agua : MonoBehaviour
 {
-    private GameObject objetoArrastrado;
+    [SerializeField] GameObject objetoArrastrado;
     private float distanciaObjeto;
 
     void Update()

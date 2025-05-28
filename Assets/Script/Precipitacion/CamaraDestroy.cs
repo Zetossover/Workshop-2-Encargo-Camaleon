@@ -4,7 +4,6 @@ using UnityEngine.SceneManagement;
 public class CamaraDestroy : MonoBehaviour
 {
     [SerializeField] GameObject gotitas;
-    bool estaTocandoNube = false;
     public bool esActivable = false;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

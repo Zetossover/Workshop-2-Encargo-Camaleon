@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class DestruirNubes : MonoBehaviour
 {
-    bool EstaTocandoNube = false;
+
     public int contadorNubes;
 
     void Start()
