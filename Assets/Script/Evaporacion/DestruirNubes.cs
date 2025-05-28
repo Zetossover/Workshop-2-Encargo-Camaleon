@@ -15,7 +15,7 @@ public class DestruirNubes : MonoBehaviour
     {
         if(contadorNubes <= 0)
         {
-            SceneManager.LoadScene("Precipitacion");
+            SceneManager.LoadScene("Condensacion");
         }
     }
     // Update is called once per frame
