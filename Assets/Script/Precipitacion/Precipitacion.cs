@@ -48,6 +48,6 @@ public class Precipitacion : MonoBehaviour
         }
 
         transform.localScale = _scaleFinal;
-
+        
     }
 }

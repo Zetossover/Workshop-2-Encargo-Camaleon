@@ -812,6 +812,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gotitas: {fileID: 8812563117430999976, guid: 6c20c0acbce38ef4cbf9581a2198f424, type: 3}
+  nubesPrefab: {fileID: 8096060040006721248, guid: 1e07894e15056f348b9496d864b28911, type: 3}
+  scaleInicial2D: {x: 2.7623951, y: 1.1836387, z: 1.9051}
+  scaleFinal2D: {x: 0.1, y: 0.1, z: 0.1}
+  tFinal: 3
   esActivable: 0
 --- !u!1 &1182328350
 GameObject:
