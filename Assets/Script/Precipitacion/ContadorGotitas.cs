@@ -1,13 +1,16 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class ContadorGotitas : MonoBehaviour
 {
-    public int contadorGotitas;
+    [SerializeField] int gotitasMaximas = 40, contadorGotitas;
+    [SerializeField] Image barraDeAgua;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         contadorGotitas = 0;
+        //barraDeAgua.fillAmount = 1;
     }
     void Update()
     {
@@ -15,7 +18,7 @@ public class ContadorGotitas : MonoBehaviour
     }
     void NextScene()
     {
-        if(contadorGotitas >= 10)
+        if(contadorGotitas >= gotitasMaximas)
         {
             SceneManager.LoadScene("Final");
         }
@@ -25,6 +28,8 @@ public class ContadorGotitas : MonoBehaviour
         if(collision.gameObject.CompareTag("Gotitas"))
         {
             contadorGotitas++;
+            //barraDeAgua.fillAmount++;
+            Destroy(collision.gameObject);
         }
     }
 }

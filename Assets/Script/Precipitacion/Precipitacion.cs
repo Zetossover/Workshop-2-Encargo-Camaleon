@@ -8,12 +8,14 @@ public class Precipitacion : MonoBehaviour
     [SerializeField] SpriteRenderer spriteRenderer;
     [SerializeField] Vector3 scaleInicial,scaleFinal;
     [SerializeField] Color colorInicial, colorFinal;
-    [SerializeField] CamaraDestroy activable;
-    
+    [SerializeField] int vidaMax, vidaActual;
+    [SerializeField] bool activable;
+    [SerializeField] GameObject gotitas;
+
 
     void Start()
     {
-        
+        vidaActual = vidaMax;
         spriteRenderer = GetComponent<SpriteRenderer>();
         StartCoroutine(CambioScale(scaleInicial, scaleFinal,tFinal));
         StartCoroutine(CambioColor(colorInicial, colorFinal, tFinal));
@@ -22,7 +24,7 @@ public class Precipitacion : MonoBehaviour
     IEnumerator CambioBool()
     {
         yield return new WaitForSeconds(tFinal);
-        activable.esActivable = true;
+        activable = true;
     }
     IEnumerator CambioColor(Color _colorInicial, Color _colorFinal, float duracion)
     {
@@ -48,6 +50,17 @@ public class Precipitacion : MonoBehaviour
         }
 
         transform.localScale = _scaleFinal;
-        
+
+    }
+    public void OnClicked(Vector2 posMouse)
+    {
+        if (!activable) return;
+
+        Instantiate(gotitas, posMouse, Quaternion.identity);
+        vidaActual--;
+        if (vidaActual == 0) gameObject.SetActive(false);
+        float lerpTime = ((float)vidaActual / (float)vidaMax);
+        transform.localScale = Vector3.Lerp(scaleInicial, scaleFinal, lerpTime);
+        spriteRenderer.material.color = Color.Lerp(colorInicial, colorFinal, lerpTime);
     }
 }
