@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 70e041adb0cf17d4090532a6f9ea2345
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8128118854628411699
+    second: logo-usek-gris-oscuro.png_0
+  - first:
+      213: 4395647796495306037
+    second: logo-usek-gris-oscuro.png_1
+  - first:
+      213: -3474575374854227579
+    second: logo-usek-gris-oscuro.png_2
+  - first:
+      213: -4635369294820036989
+    second: logo-usek-gris-oscuro.png_3
+  - first:
+      213: 2374702825496742492
+    second: logo-usek-gris-oscuro.png_4
+  - first:
+      213: 7640597710054251754
+    second: logo-usek-gris-oscuro.png_5
+  - first:
+      213: 6344829168263940967
+    second: logo-usek-gris-oscuro.png_6
+  - first:
+      213: 3910251937121707646
+    second: logo-usek-gris-oscuro.png_7
+  - first:
+      213: 6755453001386646502
+    second: logo-usek-gris-oscuro.png_8
+  - first:
+      213: 2105077192622424329
+    second: logo-usek-gris-oscuro.png_9
+  - first:
+      213: 8724923409331897264
+    second: logo-usek-gris-oscuro.png_10
+  - first:
+      213: 5562516271572320890
+    second: logo-usek-gris-oscuro.png_11
+  - first:
+      213: 7187757115694868932
+    second: logo-usek-gris-oscuro.png_12
+  - first:
+      213: 6695419296747335501
+    second: logo-usek-gris-oscuro.png_13
+  - first:
+      213: 8364718395832305908
+    second: logo-usek-gris-oscuro.png_14
+  - first:
+      213: -5070814815103778657
+    second: logo-usek-gris-oscuro.png_15
+  - first:
+      213: 1379343293151190776
+    second: logo-usek-gris-oscuro.png_16
+  - first:
+      213: 2484181736869923136
+    second: logo-usek-gris-oscuro.png_17
+  - first:
+      213: 8360315279151617406
+    second: logo-usek-gris-oscuro.png_18
+  - first:
+      213: 3207652060303372211
+    second: logo-usek-gris-oscuro.png_19
+  - first:
+      213: 3477002027324480858
+    second: logo-usek-gris-oscuro.png_20
+  - first:
+      213: 8522180088673447986
+    second: logo-usek-gris-oscuro.png_21
+  - first:
+      213: -2530011119739775925
+    second: logo-usek-gris-oscuro.png_22
+  - first:
+      213: 876310437610920991
+    second: logo-usek-gris-oscuro.png_23
+  - first:
+      213: 3548488282206356067
+    second: logo-usek-gris-oscuro.png_24
+  - first:
+      213: 262645336541237172
+    second: logo-usek-gris-oscuro.png_25
+  - first:
+      213: -539530967525812307
+    second: logo-usek-gris-oscuro.png_26
+  - first:
+      213: 8328769988831466980
+    second: logo-usek-gris-oscuro.png_27
+  - first:
+      213: 1058519154789859079
+    second: logo-usek-gris-oscuro.png_28
+  - first:
+      213: -3228922055714400306
+    second: logo-usek-gris-oscuro.png_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339084e9801ecc070800000000000000
+      internalID: 8128118854628411699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2
+        width: 35
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dc4dbb16a700d30800000000000000
+      internalID: 4395647796495306037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 120
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5897e7c0b14d7cfc0800000000000000
+      internalID: -3474575374854227579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 115
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eaf738f2cdbafb0800000000000000
+      internalID: -4635369294820036989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a89d853a3a4f020800000000000000
+      internalID: 2374702825496742492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 115
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec527bb22bd80a60800000000000000
+      internalID: 7640597710054251754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 115
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bc8ee138c5d0850800000000000000
+      internalID: 6344829168263940967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 115
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e762c6e5b61044630800000000000000
+      internalID: 3910251937121707646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 115
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb5f7c76b030cd50800000000000000
+      internalID: 6755453001386646502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 115
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9014903bd8cb63d10800000000000000
+      internalID: 2105077192622424329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 115
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3c7b93d97251970800000000000000
+      internalID: 8724923409331897264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 115
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a720668d317023d40800000000000000
+      internalID: 5562516271572320890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 115
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c967cca30b00c360800000000000000
+      internalID: 7187757115694868932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 115
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fabe46068eaec50800000000000000
+      internalID: 6695419296747335501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f882c51013751470800000000000000
+      internalID: 8364718395832305908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_15
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 27
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9083ffbac8d0a9b0800000000000000
+      internalID: -5070814815103778657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 29
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe1893ca69642310800000000000000
+      internalID: 1379343293151190776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 29
+        width: 80
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04905afb026997220800000000000000
+      internalID: 2484181736869923136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 38
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e755a18937ec50470800000000000000
+      internalID: 8360315279151617406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_19
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfae61dd8ed38c20800000000000000
+      internalID: 3207652060303372211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d1df10ceac04030800000000000000
+      internalID: 3477002027324480858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b94163add44670800000000000000
+      internalID: 8522180088673447986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b445f1a8a4893ecd0800000000000000
+      internalID: -2530011119739775925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c14ca33b7492c00800000000000000
+      internalID: 876310437610920991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362cb8eba43ce3130800000000000000
+      internalID: 3548488282206356067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0472ca8a15a300800000000000000
+      internalID: 262645336541237172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71d4f81733388f0800000000000000
+      internalID: -539530967525812307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5db385d2cb59370800000000000000
+      internalID: 8328769988831466980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f3231209d90be00800000000000000
+      internalID: 1058519154789859079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo-usek-gris-oscuro.png_29
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec718b57f709033d0800000000000000
+      internalID: -3228922055714400306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      logo-usek-gris-oscuro.png_0: 8128118854628411699
+      logo-usek-gris-oscuro.png_1: 4395647796495306037
+      logo-usek-gris-oscuro.png_10: 8724923409331897264
+      logo-usek-gris-oscuro.png_11: 5562516271572320890
+      logo-usek-gris-oscuro.png_12: 7187757115694868932
+      logo-usek-gris-oscuro.png_13: 6695419296747335501
+      logo-usek-gris-oscuro.png_14: 8364718395832305908
+      logo-usek-gris-oscuro.png_15: -5070814815103778657
+      logo-usek-gris-oscuro.png_16: 1379343293151190776
+      logo-usek-gris-oscuro.png_17: 2484181736869923136
+      logo-usek-gris-oscuro.png_18: 8360315279151617406
+      logo-usek-gris-oscuro.png_19: 3207652060303372211
+      logo-usek-gris-oscuro.png_2: -3474575374854227579
+      logo-usek-gris-oscuro.png_20: 3477002027324480858
+      logo-usek-gris-oscuro.png_21: 8522180088673447986
+      logo-usek-gris-oscuro.png_22: -2530011119739775925
+      logo-usek-gris-oscuro.png_23: 876310437610920991
+      logo-usek-gris-oscuro.png_24: 3548488282206356067
+      logo-usek-gris-oscuro.png_25: 262645336541237172
+      logo-usek-gris-oscuro.png_26: -539530967525812307
+      logo-usek-gris-oscuro.png_27: 8328769988831466980
+      logo-usek-gris-oscuro.png_28: 1058519154789859079
+      logo-usek-gris-oscuro.png_29: -3228922055714400306
+      logo-usek-gris-oscuro.png_3: -4635369294820036989
+      logo-usek-gris-oscuro.png_4: 2374702825496742492
+      logo-usek-gris-oscuro.png_5: 7640597710054251754
+      logo-usek-gris-oscuro.png_6: 6344829168263940967
+      logo-usek-gris-oscuro.png_7: 3910251937121707646
+      logo-usek-gris-oscuro.png_8: 6755453001386646502
+      logo-usek-gris-oscuro.png_9: 2105077192622424329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
