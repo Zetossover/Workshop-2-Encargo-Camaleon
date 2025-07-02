@@ -10,7 +10,7 @@ public class ContadorGotitas : MonoBehaviour
     void Start()
     {
         contadorGotitas = 0;
-        //barraDeAgua.fillAmount = 1;
+        barraDeAgua.fillAmount = 0f;
     }
     void Update()
     {
@@ -28,7 +28,7 @@ public class ContadorGotitas : MonoBehaviour
         if(collision.gameObject.CompareTag("Gotitas"))
         {
             contadorGotitas++;
-            //barraDeAgua.fillAmount++;
+            barraDeAgua.fillAmount = (float)contadorGotitas / gotitasMaximas;
             Destroy(collision.gameObject);
         }
     }

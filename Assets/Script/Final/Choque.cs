@@ -9,7 +9,8 @@ public class Choque : MonoBehaviour
 
     void Start()
     {
-        count = 5; 
+        count = 10; 
+        aguaTxt.text = currentCount + " / " + count;
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -17,6 +18,7 @@ public class Choque : MonoBehaviour
         {
             Debug.Log("Colisione");
             currentCount++;
+            aguaTxt.text = currentCount + " / " + count;
             Destroy(collision.gameObject);
             
         }

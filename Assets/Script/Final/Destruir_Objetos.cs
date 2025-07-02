@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Destruir_Objetos : MonoBehaviour
 {
-
+    public CaminoCorrecto correcto;
 
     // Update is called once per frame
     void Update()
@@ -17,7 +17,14 @@ public class Destruir_Objetos : MonoBehaviour
                 Debug.Log("choco" + ray.collider.name);
                 if (ray.collider.CompareTag("Objetos"))
                 {
-                    ray.collider.gameObject.SetActive(false);
+                    if(correcto != null && correcto.Camino())
+                    {
+                        ray.collider.gameObject.SetActive(false);
+                    }
+                    else
+                    {
+                        Debug.Log(" No puedes destruirlo, aun no esta correcto el camino");
+                    }
                     
                 }
             }
