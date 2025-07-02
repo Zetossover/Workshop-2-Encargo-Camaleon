@@ -12,6 +12,7 @@ TagManager:
   - Meta
   - Agua
   - Tuberias
+  - Lava
   layers:
   - Default
   - TransparentFX
