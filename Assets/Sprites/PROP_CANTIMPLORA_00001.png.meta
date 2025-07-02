@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 5acd7fcccb4c8c74da0013e65675154b
+guid: 2dd8c7b5b1dddb641b0763917103417b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -754883654864467762
-    second: pipeGreen_05_0
+      213: -4597682400037789957
+    second: PROP_CANTIMPLORA_00001_0
+  - first:
+      213: -5541238193483661562
+    second: PROP_CANTIMPLORA_00001_1
+  - first:
+      213: -8674441238055252797
+    second: PROP_CANTIMPLORA_00001_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pipeGreen_05_0
+      name: PROP_CANTIMPLORA_00001_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 219
-        height: 160
+        x: 1537
+        y: 770
+        width: 656
+        height: 649
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec80e01c05d1685f0800000000000000
-      internalID: -754883654864467762
+      spriteID: bfe9eab7730c130c0800000000000000
+      internalID: -4597682400037789957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROP_CANTIMPLORA_00001_1
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 669
+        width: 57
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f3495c8319913b0800000000000000
+      internalID: -5541238193483661562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PROP_CANTIMPLORA_00001_2
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 176
+        width: 472
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc87b437a13e9780800000000000000
+      internalID: -8674441238055252797
       vertices: []
       indices: 
       edges: []
@@ -134,8 +184,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      pipeGreen_05_0: -754883654864467762
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

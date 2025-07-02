@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5acd7fcccb4c8c74da0013e65675154b
+guid: acd1abc49d6380b4891fb4916d584265
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -754883654864467762
-    second: pipeGreen_05_0
+      213: -5545981235201493463
+    second: CAMALEON_poses_00001_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pipeGreen_05_0
+      name: CAMALEON_poses_00001_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 219
-        height: 160
+        x: 1042
+        y: 140
+        width: 1800
+        height: 1884
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec80e01c05d1685f0800000000000000
-      internalID: -754883654864467762
+      spriteID: 92635d05377b803b0800000000000000
+      internalID: -5545981235201493463
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      pipeGreen_05_0: -754883654864467762
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
