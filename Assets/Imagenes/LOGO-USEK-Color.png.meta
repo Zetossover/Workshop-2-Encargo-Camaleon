@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1a17f59ba07048348b9ee3d52c14335d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3046869247568983961
+    second: LOGO-USEK-Color_0
+  - first:
+      213: -1298336837333964217
+    second: LOGO-USEK-Color_1
+  - first:
+      213: -5542606291520059725
+    second: LOGO-USEK-Color_2
+  - first:
+      213: 8316728087369695409
+    second: LOGO-USEK-Color_3
+  - first:
+      213: -5133830355799241822
+    second: LOGO-USEK-Color_4
+  - first:
+      213: 6984816272233685807
+    second: LOGO-USEK-Color_5
+  - first:
+      213: 3259003165181219292
+    second: LOGO-USEK-Color_6
+  - first:
+      213: 7482622401177891724
+    second: LOGO-USEK-Color_7
+  - first:
+      213: 7248194515492310830
+    second: LOGO-USEK-Color_8
+  - first:
+      213: -2943974523305029450
+    second: LOGO-USEK-Color_9
+  - first:
+      213: 7258264245853196759
+    second: LOGO-USEK-Color_10
+  - first:
+      213: 6357365956727005468
+    second: LOGO-USEK-Color_11
+  - first:
+      213: -8199042792856271210
+    second: LOGO-USEK-Color_12
+  - first:
+      213: -5072605853252150987
+    second: LOGO-USEK-Color_13
+  - first:
+      213: -3597128482627007587
+    second: LOGO-USEK-Color_14
+  - first:
+      213: -6705808691781637521
+    second: LOGO-USEK-Color_15
+  - first:
+      213: -6551668248802983487
+    second: LOGO-USEK-Color_16
+  - first:
+      213: -5278599456880063498
+    second: LOGO-USEK-Color_17
+  - first:
+      213: 5756341773682480575
+    second: LOGO-USEK-Color_18
+  - first:
+      213: 3057304423797294002
+    second: LOGO-USEK-Color_19
+  - first:
+      213: 6500597568166660547
+    second: LOGO-USEK-Color_20
+  - first:
+      213: 1514704548164949219
+    second: LOGO-USEK-Color_21
+  - first:
+      213: -995046272081322933
+    second: LOGO-USEK-Color_22
+  - first:
+      213: -734964980209631927
+    second: LOGO-USEK-Color_23
+  - first:
+      213: 4007632986460971252
+    second: LOGO-USEK-Color_24
+  - first:
+      213: 2566200464745465438
+    second: LOGO-USEK-Color_25
+  - first:
+      213: 8150953262437995791
+    second: LOGO-USEK-Color_26
+  - first:
+      213: -4823632191634485999
+    second: LOGO-USEK-Color_27
+  - first:
+      213: -2679806861459746711
+    second: LOGO-USEK-Color_28
+  - first:
+      213: 3561316483655912434
+    second: LOGO-USEK-Color_29
+  - first:
+      213: 2645691768669432560
+    second: LOGO-USEK-Color_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 452
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997396a0077a84a20800000000000000
+      internalID: 3046869247568983961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 564
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74aa7eb76816bfde0800000000000000
+      internalID: -1298336837333964217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_2
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 117
+        width: 54
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b60a10a1f4b413b0800000000000000
+      internalID: -5542606291520059725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 542
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04f2da124fa6370800000000000000
+      internalID: 8316728087369695409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_4
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 544
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab0879dd78f0c8b0800000000000000
+      internalID: -5133830355799241822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_5
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 544
+        width: 15
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f236bd7746d0fe060800000000000000
+      internalID: 6984816272233685807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_6
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 544
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1108e9c1e4a3d20800000000000000
+      internalID: 3259003165181219292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_7
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 544
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83b692ed6d97d760800000000000000
+      internalID: 7482622401177891724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_8
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 544
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f8ade5282c69460800000000000000
+      internalID: 7248194515492310830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_9
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 542
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b09a96d4c6e427d0800000000000000
+      internalID: -2943974523305029450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_10
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 544
+        width: 15
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d19ffb20e88ab460800000000000000
+      internalID: 7258264245853196759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 544
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11efd5a7a6e93850800000000000000
+      internalID: 6357365956727005468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_12
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 544
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69643913506273e80800000000000000
+      internalID: -8199042792856271210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_13
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 544
+        width: 89
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539965f2adb7a99b0800000000000000
+      internalID: -5072605853252150987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 455
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc39514be641ec0800000000000000
+      internalID: -3597128482627007587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_15
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 210
+        width: 298
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae0a2168e20f2a0800000000000000
+      internalID: -6705808691781637521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_16
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 216
+        width: 274
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c184ef907cc315a0800000000000000
+      internalID: -6551668248802983487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_17
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 216
+        width: 303
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb081dd2c5aeb6b0800000000000000
+      internalID: -5278599456880063498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_18
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 376
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb516124852a2ef40800000000000000
+      internalID: 5756341773682480575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 250
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b30ba6dc2abd6a20800000000000000
+      internalID: 3057304423797294002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_20
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 124
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9875eeb03c63a50800000000000000
+      internalID: 6500597568166660547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_21
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 105
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45a05e2cf450510800000000000000
+      internalID: 1514704548164949219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_22
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 107
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c148100b2e032f0800000000000000
+      internalID: -995046272081322933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_23
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 107
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94db0489e31ecc5f0800000000000000
+      internalID: -734964980209631927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_24
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 107
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0e424c7f8fd9730800000000000000
+      internalID: 4007632986460971252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_25
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 107
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e568893f9b9fc9320800000000000000
+      internalID: 2566200464745465438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_26
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 105
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059d6c7ec00e1170800000000000000
+      internalID: 8150953262437995791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_27
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 105
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dcc7214140f0db0800000000000000
+      internalID: -4823632191634485999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_28
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 107
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96099049bd96fcad0800000000000000
+      internalID: -2679806861459746711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_29
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 107
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbcd0529765c6130800000000000000
+      internalID: 3561316483655912434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LOGO-USEK-Color_30
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 105
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa67b865a267b420800000000000000
+      internalID: 2645691768669432560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LOGO-USEK-Color_0: 3046869247568983961
+      LOGO-USEK-Color_1: -1298336837333964217
+      LOGO-USEK-Color_10: 7258264245853196759
+      LOGO-USEK-Color_11: 6357365956727005468
+      LOGO-USEK-Color_12: -8199042792856271210
+      LOGO-USEK-Color_13: -5072605853252150987
+      LOGO-USEK-Color_14: -3597128482627007587
+      LOGO-USEK-Color_15: -6705808691781637521
+      LOGO-USEK-Color_16: -6551668248802983487
+      LOGO-USEK-Color_17: -5278599456880063498
+      LOGO-USEK-Color_18: 5756341773682480575
+      LOGO-USEK-Color_19: 3057304423797294002
+      LOGO-USEK-Color_2: -5542606291520059725
+      LOGO-USEK-Color_20: 6500597568166660547
+      LOGO-USEK-Color_21: 1514704548164949219
+      LOGO-USEK-Color_22: -995046272081322933
+      LOGO-USEK-Color_23: -734964980209631927
+      LOGO-USEK-Color_24: 4007632986460971252
+      LOGO-USEK-Color_25: 2566200464745465438
+      LOGO-USEK-Color_26: 8150953262437995791
+      LOGO-USEK-Color_27: -4823632191634485999
+      LOGO-USEK-Color_28: -2679806861459746711
+      LOGO-USEK-Color_29: 3561316483655912434
+      LOGO-USEK-Color_3: 8316728087369695409
+      LOGO-USEK-Color_30: 2645691768669432560
+      LOGO-USEK-Color_4: -5133830355799241822
+      LOGO-USEK-Color_5: 6984816272233685807
+      LOGO-USEK-Color_6: 3259003165181219292
+      LOGO-USEK-Color_7: 7482622401177891724
+      LOGO-USEK-Color_8: 7248194515492310830
+      LOGO-USEK-Color_9: -2943974523305029450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
