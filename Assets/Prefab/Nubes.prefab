@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8390853430223224332}
   - component: {fileID: -2493135620769149134}
   - component: {fileID: 6932080549090631607}
+  - component: {fileID: 7591623101689048310}
   m_Layer: 0
   m_Name: Nubes
   m_TagString: Nube
@@ -123,7 +124,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.05153787, y: -0.054759413}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -133,7 +134,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 2.2755687, y: 1.1095185}
   m_EdgeRadius: 0
 --- !u!50 &6932080549090631607
 Rigidbody2D:
@@ -162,3 +163,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7591623101689048310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8096060040006721248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f8609075aa04624b80c6f553ae26a9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cursorSprite: {fileID: 2800000, guid: 37afa6b4d8bb1e74c947f82bfa900e53, type: 3}
+  cursorPosition: {x: 0, y: 0}
