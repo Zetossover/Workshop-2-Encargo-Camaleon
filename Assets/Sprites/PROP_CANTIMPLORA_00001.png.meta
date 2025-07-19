@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PROP_CANTIMPLORA_00001_0: -4597682400037789957
+      PROP_CANTIMPLORA_00001_1: -5541238193483661562
+      PROP_CANTIMPLORA_00001_2: -8674441238055252797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
